@@ -8,9 +8,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.TextView;
-
 import com.rubit.simplestreamplayer.R;
 import com.rubit.simplestreamplayer.utilties.DemoUtil;
+
 
 public class MainActivity extends Activity {
 
