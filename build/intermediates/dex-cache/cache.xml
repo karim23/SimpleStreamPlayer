@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\4fad10a946c071e0a0ba1dc3d24cecd3b14bb066\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c1d188918728ab296fe056767d632cf0d9c016af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\EngKarimTools\AndroidStudioTools\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_8720b2837b58d50cfb750bd9144ed1ad9d9f802c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\546e6020fdef851d3475c35a3866986c39eb3b02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c9fc5678b0d6bfbc14bbbeb2494a5ff538ce11af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\50d51a51f9541faa8f4681da30150694db708c0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b64c7b329699d411699df180836afb9e84c7948f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\770d9f39b995d872a073203dbcda8eb50d4541c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e6d1745f4f194d3f3e92f65b84913599375eca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\2017\SimpleStreamPlayer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5c684f8befa66fa775ee476ef9063f9985700dbf">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_af22846abccaae69755bf285a84ac7f89cb5d45f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\f0e18ba5c637d2b20706422851a23584ca67cce9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b573a66c6bd13777e3ef5435b85ed96328bf93c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\50d51a51f9541faa8f4681da30150694db708c0f\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_aa94f305631f8d476ad1a3699bb991a33beccea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\953c7ff44ffebd76180776330416e4c248bd5877\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ea3ee81299181b6476fe2f749eabe7f74c8c339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\be28f90d3aa9544742accc0759291edcf07f991c\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b6669d7aeb89b6eb0ebdebbb2a060ae4d7cb1cdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\c26f0a89baba73b8f7055bda32294fcc04f57b02\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_260d097f7cb6ad21e10a3bc9ba9576c018520a7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\f85345a9c0746cee696afec5a984646acb5b6974\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a88c14bfe3006cee03cfca7aeb0532304abb453b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\546e6020fdef851d3475c35a3866986c39eb3b02\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_06e549e0dd27f22df470497f7229a739088fa5f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\4fad10a946c071e0a0ba1dc3d24cecd3b14bb066\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a2758b799113c80a1b4cd44fc6429cf70ab467c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\be28f90d3aa9544742accc0759291edcf07f991c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95b0247d7a9cae752985349e00ed730c4af86e8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\newOs\.android\build-cache\c26f0a89baba73b8f7055bda32294fcc04f57b02\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_65420917597be4998afc63591d8b94b93041370a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\2017\SimpleStreamPlayer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\2017\SimpleStreamPlayer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8214e9fc2994675f8b4784484a4436b6bb7bfdf4\classes.dex" />
+    </item>
+
+</items>

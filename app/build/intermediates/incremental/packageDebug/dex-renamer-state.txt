@@ -1,0 +1,7 @@
+#Mon Sep 11 09:52:51 EET 2017
+base.0=D\:\\2017\\SimpleStreamPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_af22846abccaae69755bf285a84ac7f89cb5d45f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\2017\\SimpleStreamPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8214e9fc2994675f8b4784484a4436b6bb7bfdf4\\classes.dex
+base.1=D\:\\2017\\SimpleStreamPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8214e9fc2994675f8b4784484a4436b6bb7bfdf4
+file.0=D\:\\2017\\SimpleStreamPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_af22846abccaae69755bf285a84ac7f89cb5d45f\\classes.dex

@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [SimpleStreamPlayer:exoPlayerLib:unspecified] D:\2017\SimpleStreamPlayer\exoPlayerLib\build\intermediates\bundles\default\AndroidManifest.xml:28:5-67
+	android:name
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [SimpleStreamPlayer:exoPlayerLib:unspecified] D:\2017\SimpleStreamPlayer\exoPlayerLib\build\intermediates\bundles\default\AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:9:5-76
+MERGED from [SimpleStreamPlayer:exoPlayerLib:unspecified] D:\2017\SimpleStreamPlayer\exoPlayerLib\build\intermediates\bundles\default\AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:10:5-81
+MERGED from [SimpleStreamPlayer:exoPlayerLib:unspecified] D:\2017\SimpleStreamPlayer\exoPlayerLib\build\intermediates\bundles\default\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:12:5-32:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\newOs\.android\build-cache\953c7ff44ffebd76180776330416e4c248bd5877\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\newOs\.android\build-cache\f0e18ba5c637d2b20706422851a23584ca67cce9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\newOs\.android\build-cache\4fad10a946c071e0a0ba1dc3d24cecd3b14bb066\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\newOs\.android\build-cache\546e6020fdef851d3475c35a3866986c39eb3b02\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\newOs\.android\build-cache\50d51a51f9541faa8f4681da30150694db708c0f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\newOs\.android\build-cache\c26f0a89baba73b8f7055bda32294fcc04f57b02\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\newOs\.android\build-cache\f85345a9c0746cee696afec5a984646acb5b6974\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\newOs\.android\build-cache\770d9f39b995d872a073203dbcda8eb50d4541c7\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\newOs\.android\build-cache\be28f90d3aa9544742accc0759291edcf07f991c\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.rubit.simplestreamplayer.ui.MainActivity
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:18:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.rubit.simplestreamplayer.ui.VideoPlayerActivity
+ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:27:9-31:20
+	android:configChanges
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:29:13-74
+	android:theme
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:30:13-47
+	android:name
+		ADDED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:28:13-79
+uses-sdk
+INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [SimpleStreamPlayer:exoPlayerLib:unspecified] D:\2017\SimpleStreamPlayer\exoPlayerLib\build\intermediates\bundles\default\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\newOs\.android\build-cache\953c7ff44ffebd76180776330416e4c248bd5877\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\newOs\.android\build-cache\f0e18ba5c637d2b20706422851a23584ca67cce9\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\newOs\.android\build-cache\4fad10a946c071e0a0ba1dc3d24cecd3b14bb066\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\newOs\.android\build-cache\546e6020fdef851d3475c35a3866986c39eb3b02\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\newOs\.android\build-cache\50d51a51f9541faa8f4681da30150694db708c0f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\newOs\.android\build-cache\c26f0a89baba73b8f7055bda32294fcc04f57b02\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\newOs\.android\build-cache\f85345a9c0746cee696afec5a984646acb5b6974\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\newOs\.android\build-cache\770d9f39b995d872a073203dbcda8eb50d4541c7\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\newOs\.android\build-cache\be28f90d3aa9544742accc0759291edcf07f991c\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\newOs\.android\build-cache\953c7ff44ffebd76180776330416e4c248bd5877\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+		INJECTED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\2017\SimpleStreamPlayer\app\src\main\AndroidManifest.xml:2:1-34:12 reason: com.google.android.exoplayer requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,4 @@
+#Mon Sep 11 09:52:51 EET 2017
+base.0=D\:\\2017\\SimpleStreamPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=D\:\\2017\\SimpleStreamPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
