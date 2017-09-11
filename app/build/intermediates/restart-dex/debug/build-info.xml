@@ -6,33 +6,26 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1505121102544"
+    timestamp="1505121531076"
     token="-5582570680666724795"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="323" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="26" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
-
-    <artifact
-        location="D:\2017\SimpleStreamPlayer\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="D:\2017\SimpleStreamPlayer\app\build\outputs\apk\app-debug.apk"
-        type="SPLIT_MAIN" />
+        duration="0" />
 
     <build
         build-mode="FULL"
-        timestamp="1505118246672"
+        timestamp="1505121484284"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\2017\SimpleStreamPlayer\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -73,22 +66,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1505119505644"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\2017\SimpleStreamPlayer\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1505121102544"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\2017\SimpleStreamPlayer\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="D:\2017\SimpleStreamPlayer\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
+        timestamp="1505121531076"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
